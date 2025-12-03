@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+// your fixes:
+a:hover {
+  font-weight: normal !important;
+}
