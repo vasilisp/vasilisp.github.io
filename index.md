@@ -5,4 +5,5 @@ title: Vasilis Papavasileiou
 
 backend, data, artificial intelligence, formal methods, functional programming, Unix
 
-\[[resume](/resume/resume.pdf)\]
+- [Resume](/resume/resume.pdf)
+- [Past Research Publications (2010-2016)](/pub)
