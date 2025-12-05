@@ -2,7 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-// your fixes:
-a:hover {
+a,
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
   font-weight: inherit !important;
 }
